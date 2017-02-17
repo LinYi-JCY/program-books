@@ -115,7 +115,7 @@
 
 ---
 
-#《SQL Server2008宝典》
+#《SQL Server 2008宝典》
 <img src="http://images2015.cnblogs.com/blog/831875/201702/831875-20170214131418847-1527869643.png" width="200" />
 
 **等级**：入门级
